@@ -1,0 +1,7 @@
+G:\Wnddemo\c#_console\三层架构\StudentRoomPro\StudentRoomDAL\bin\Debug\StudentRoom.DAL.dll
+G:\Wnddemo\c#_console\三层架构\StudentRoomPro\StudentRoomDAL\bin\Debug\StudentRoom.DAL.pdb
+G:\Wnddemo\c#_console\三层架构\StudentRoomPro\StudentRoomDAL\bin\Debug\StudentRoom.MODEL.dll
+G:\Wnddemo\c#_console\三层架构\StudentRoomPro\StudentRoomDAL\bin\Debug\StudentRoom.MODEL.pdb
+G:\Wnddemo\c#_console\三层架构\StudentRoomPro\StudentRoomDAL\obj\Debug\StudentRoomDAL.csprojResolveAssemblyReference.cache
+G:\Wnddemo\c#_console\三层架构\StudentRoomPro\StudentRoomDAL\obj\Debug\StudentRoom.DAL.dll
+G:\Wnddemo\c#_console\三层架构\StudentRoomPro\StudentRoomDAL\obj\Debug\StudentRoom.DAL.pdb
